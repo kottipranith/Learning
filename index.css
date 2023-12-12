@@ -1,3 +1,7 @@
+body{
+    background: black;
+    color: white;
+}
 p{
     font-size: 50px;
 }
